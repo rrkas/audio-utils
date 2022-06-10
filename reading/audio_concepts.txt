@@ -1,0 +1,9 @@
+- The audio bandwidth is also affected by the codec, if it chooses to discard any frequency bands while encoding the sound.
+- By chaining all the samples together, you can approximately represent the original wave.
+- Each channel contains a sample indicating the amplitude of the audio being produced by that source at a given moment in time. For instance, in stereo sound, there are two audio sources: one speaker on the left, and one on the right. Each of these is represented by one channel.
+- The most common sample rates are: 
+    8000 Hz     audio used in telephony 
+    44100 Hz    used for compact disc (CD) audio
+    48000 Hz    DVD, PC
+    96000 Hz    High-resolution audio
+    192000 Hz   Ultra-high resolution audio

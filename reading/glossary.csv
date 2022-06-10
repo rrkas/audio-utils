@@ -1,0 +1,10 @@
+audio bandwidth,the range of audio frequencies the A/D converter is capable of capturing and converting into digital form
+
+sample,captured incoming wave's amplitude at regular intervals
+sample rate,number of samples taken per second
+sample size,size of an individual sample
+
+channel,position of each audio source within the audio signal
+channel count,number of channels contained in the audio signal
+
+audio frames,consists of one sample for each of the audio's channels when all channels are assembled into a series

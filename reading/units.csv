@@ -1,0 +1,4 @@
+sampling rate,samples/sec
+sample depth,bits/sample
+time,sec
+memory,"bits, kb, mb, gb, ..."
