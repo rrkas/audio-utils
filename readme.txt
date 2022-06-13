@@ -8,3 +8,5 @@ Reading
 
 Utils
 - get_size
+- split_audio_by_channel
+- split_audio_by_duration
